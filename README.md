@@ -24,6 +24,12 @@ Built with the mandatory tech stack requirements:
 - **Testing Library** for interaction tests
 - **axe-core** for accessibility validation
 
+## 🚀 Live Demo
+
+- **🌐 Storybook Preview**: [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/amalkarnakul/Internshala-P2&build-command=npm%20run%20build-storybook&output-directory=storybook-static)
+- **📖 Documentation**: Complete component library with interactive examples
+- **♿ Accessibility Testing**: Built-in a11y validation tools
+
 ## 📦 Installation
 
 ```bash
