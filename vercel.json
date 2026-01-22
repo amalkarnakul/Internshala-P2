@@ -1,23 +1,4 @@
 {
-  "version": 2,
-  "name": "hierarchical-combobox-storybook",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "storybook-static"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ],
   "buildCommand": "npm run build-storybook",
-  "outputDirectory": "storybook-static",
-  "installCommand": "npm install",
-  "framework": null
+  "outputDirectory": "storybook-static"
 }
